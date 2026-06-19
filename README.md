@@ -1,9 +1,7 @@
 ## 🔧 What I'm Building
 
-- **Automated 3D Print Removal System** — aluminum extrusion chassis with stepper motors 
-  and custom firmware to pull finished prints off the build plate autonomously
-- **ESP32 Golf Cart Sunshade Automation** — wireless hold-to-run control interface 
-  via softAP browser UI, powered from the cart's onboard battery
+- **Automated 3D Print Removal System** — stepper motors and custom firmware to pull finished prints off the build plate autonomously
+- **ESP32 Golf Cart Sunshade Automation** — wireless hold-to-run control interface via softAP browser UI, powered from the cart's onboard battery
 
 ---
 
