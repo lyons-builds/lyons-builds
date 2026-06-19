@@ -1,8 +1,3 @@
-Mechanical engineering student specializing in embedded systems, 
-robotics, and prototype development. I take designs from concept to reality.
-
----
-
 ## 🔧 What I'm Building
 
 - **Automated 3D Print Removal System** — aluminum extrusion chassis with stepper motors 
