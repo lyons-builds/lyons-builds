@@ -1,21 +1,36 @@
-## Embedded systems, robotics, and prototype development.
+# Hey, I'm Colton Lyons 👋
 
-🔭 I’m currently working on an automated 3D print removal system
+Mechanical engineering student specializing in embedded systems, 
+robotics, and prototype development. I take designs from concept to reality.
 
-⚡ Also working on: ESP32-based golf cart sunshade 
+---
 
-📫 How to reach me: colton@lyonslocomotion.com
-<!--
-**lyons-builds/lyons-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔧 What I'm Building
 
-Here are some ideas to get you started:
+- **Automated 3D Print Removal System** — aluminum extrusion chassis with stepper motors 
+  and custom firmware to pull finished prints off the build plate autonomously
+- **ESP32 Golf Cart Sunshade Automation** — wireless hold-to-run control interface 
+  via softAP browser UI, powered from the cart's onboard battery
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills & Tools
+
+`C/C++` `ESP32` `Embedded Systems` `CAD` `SolidWorks` `Fusion 360`
+`CNC Machining` `3D Printing` `Git` `PCB Wiring` `Servo & Stepper Control`
+
+---
+
+## 📌 Featured Projects
+
+- **Auto Build Plate Removal** — Robotic system automating 3D print harvesting
+- **ESP32 Dog Feeder** — IoT-enabled automated dispenser with WiFi and servo control
+- **Golf Cart Sunshade** — ESP32-based actuator system with browser control interface
+- **FIRST Robotics** — Mechanical design and fabrication across multiple competition seasons
+
+---
+
+## 📫 Reach Me
+
+📧 your.email@proton.me  
+💼 [LinkedIn](https://linkedin.com/in/yourprofile)
