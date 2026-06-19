@@ -1,8 +1,6 @@
 Mechanical engineering student specializing in embedded systems, 
 robotics, and prototype development. I build things from concept to reality.
 
-CAD • SolidWorks/Fusion 360 • CNC Machining • ESP32 • C/C++ • 3D Printing • Git
-
 🔧 Currently building: Automated 3D print removal system (stepper motors + aluminum extrusion chassis)
 
 ⚡ Also working on: ESP32-based golf cart sunshade 
