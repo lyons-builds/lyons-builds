@@ -1,5 +1,3 @@
-# Hey, I'm Colton Lyons 👋
-
 Mechanical engineering student specializing in embedded systems, 
 robotics, and prototype development. I take designs from concept to reality.
 
