@@ -1,10 +1,11 @@
 Mechanical engineering student specializing in embedded systems, 
 robotics, and prototype development. I build things from concept to reality.
 
-🔧 Currently building: Automated 3D print removal system (stepper motors + aluminum extrusion chassis)
+🔭 I’m currently working on an Automated 3D print removal system
 
 ⚡ Also working on: ESP32-based golf cart sunshade 
 
+📫 How to reach me: colton@lyonslocomotion.com
 <!--
 **lyons-builds/lyons-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
