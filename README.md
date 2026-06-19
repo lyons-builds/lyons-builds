@@ -25,5 +25,5 @@
 
 ## 📫 Reach Me
 
-📧 your.email@proton.me  
-💼 [LinkedIn](https://linkedin.com/in/yourprofile)
+📧 colton@lyonslocomotion.com
+
