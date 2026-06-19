@@ -1,3 +1,7 @@
+## Junior ME Student at UTSA based in Texas 
+
+---
+
 ## 🔧 What I'm Building
 
 - **Automated 3D Print Removal System** — stepper motors and custom firmware to pull finished prints off the build plate autonomously
