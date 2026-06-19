@@ -1,7 +1,7 @@
 ## 👋 Hello, I'm Colton
 
 - Mechanical engineering student specializing in embedded systems, 
-robotics, and prototype development. I take designs from concept to reality.
+robotics, and prototype development. 
 
 
 ## 🔧 What I'm Building
