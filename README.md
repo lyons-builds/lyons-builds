@@ -1,5 +1,5 @@
 Mechanical engineering student specializing in embedded systems, 
-robotics, and prototype development. I build things from concept to reality.
+robotics, and prototype development.
 
 🔭 I’m currently working on an Automated 3D print removal system
 
