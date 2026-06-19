@@ -1,5 +1,4 @@
-## Mechanical engineering student 
-Embedded systems, robotics, and prototype development.
+## Embedded systems, robotics, and prototype development.
 
 🔭 I’m currently working on an automated 3D print removal system
 
