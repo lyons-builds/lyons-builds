@@ -1,4 +1,10 @@
-## Hi there 👋
+CAD • SolidWorks/Fusion 360 • CNC Machining • ESP32 • C/C++ • 3D Printing • Git
+
+## Mechanical engineering student specializing in embedded systems, 
+robotics, and prototype development. I build things from concept to reality.
+
+🔧 Currently building: Automated 3D print removal system (stepper motors + aluminum extrusion chassis)
+⚡ Also working on: ESP32-based golf cart sunshade 
 
 <!--
 **lyons-builds/lyons-builds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
