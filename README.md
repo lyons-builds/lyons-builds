@@ -1,7 +1,7 @@
 Mechanical engineering student specializing in embedded systems, 
 robotics, and prototype development.
 
-🔭 I’m currently working on an Automated 3D print removal system
+🔭 I’m currently working on an automated 3D print removal system
 
 ⚡ Also working on: ESP32-based golf cart sunshade 
 
